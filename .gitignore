@@ -1,0 +1,9 @@
+# Ignore các file không cần upload
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.h5
+*.keras
+*.csv
+*.xlsx
+.env
